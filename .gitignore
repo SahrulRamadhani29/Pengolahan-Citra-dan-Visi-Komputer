@@ -4,6 +4,7 @@ tmp/
 # Course modules stay available locally but are not published to GitHub
 *.pdf
 *.PDF
+Minggu 1/images/
 
 # Python and Jupyter local artifacts
 __pycache__/
