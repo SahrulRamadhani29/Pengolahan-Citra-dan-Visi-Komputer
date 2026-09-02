@@ -1,6 +1,10 @@
 # Temporary files generated during local inspection and processing
 tmp/
 
+# Course modules stay available locally but are not published to GitHub
+*.pdf
+*.PDF
+
 # Python and Jupyter local artifacts
 __pycache__/
 *.py[cod]
@@ -8,5 +12,7 @@ __pycache__/
 
 # Editor and operating-system files
 .vscode/
+.codex/
+skills/
 .DS_Store
 Thumbs.db
