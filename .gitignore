@@ -1,0 +1,12 @@
+# Temporary files generated during local inspection and processing
+tmp/
+
+# Python and Jupyter local artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
