@@ -1,20 +1,14 @@
-# Temporary files generated during local inspection and processing
 tmp/
 
-# Course modules stay available locally but are not published to GitHub
-*.pdf
 *.PDF
 
-# Image folders from every course week stay local
-**/[Ii][Mm][Aa][Gg][Ee]/
 **/[Ii][Mm][Aa][Gg][Ee][Ss]/
 
-# Python and Jupyter local artifacts
+# Python and Jupyter local
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Editor and operating-system files
 .vscode/
 .codex/
 skills/
